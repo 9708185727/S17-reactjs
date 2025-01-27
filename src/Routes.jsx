@@ -7,7 +7,7 @@ import {
 } from "react-router-dom";
 import Home from "./pages/Home";
 import About from "./pages/About";
-import Contact from "./pages/contact";
+
 import List from "./pages/products/List";
 import MainLayout from "./layouts/MainLayout";
 import {
@@ -22,10 +22,10 @@ import Login from "./pages/auth/Login";
 import Register from "./pages/auth/Register";
 import Details from "./pages/products/Details";
 import AuthLayout from "./layouts/AuthLayout";
-import UnAuthLayout from "./layouts/UnAuthLayout";
-import ProductForm from "./components/products/Form";
+i
 import AddProduct from "./pages/products/Add";
 import EditProduct from "./pages/products/Edit";
+import Contact from "./pages/Contact";
 const Routes = () => {
   const router = createBrowserRouter(
     createRoutesFromElements(
