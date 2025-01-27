@@ -2,7 +2,7 @@ import React from 'react'
 import { REGISTER_ROUTE } from "../../constants/routes";
 import { Link } from "react-router-dom";
 import loginBg from "../../assets/image/login-bg.png";
-import SignIn from '../../components/auth/signIn';
+import SignIn from '../../components/auth/SignIn';
 const Login = () => {
   return (
     <section className="py-12  min-h-[90vh]">
