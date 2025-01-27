@@ -4,9 +4,10 @@ import { MdDelete } from "react-icons/md";
 import { Link } from "react-router-dom";
 import { deleteProduct } from "../../api/productapi/products";
 import { toast } from "react-toastify";
-import ProductModal from "./Modal";
+
 import { useDispatch } from "react-redux";
 import { getAllProducts } from "../../redux/products/productActions";
+import ProductModal from "./ProductModal";
 const ProductCard = ({
   id,
   name,
