@@ -4,8 +4,8 @@ import { MdDelete } from "react-icons/md";
 import { Link } from "react-router-dom";
 import { deleteProduct } from "../../api/productapi/products";
 import { toast } from "react-toastify";
-import ProductModal from "./modal";
-import { useDispatch, useSelector } from "react-redux";
+import ProductModal from "./Modal";
+import { useDispatch } from "react-redux";
 import { getAllProducts } from "../../redux/products/productActions";
 const ProductCard = ({
   id,
