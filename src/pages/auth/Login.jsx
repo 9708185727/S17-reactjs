@@ -2,7 +2,8 @@ import React from 'react'
 import { REGISTER_ROUTE } from "../../constants/routes";
 import { Link } from "react-router-dom";
 import loginBg from "../../assets/image/login-bg.png";
-import SignIn from '../../components/auth/SignIn';
+import SignForm from '../../components/auth/SignIn';
+
 const Login = () => {
   return (
     <section className="py-12  min-h-[90vh]">
@@ -24,7 +25,7 @@ const Login = () => {
             </p>
           </div>
           <div className="w-full md:w-1/2 xl:px-20 mt-12">
-            <SignIn />
+            <SignForm />
           </div>
         </div>
       </div>

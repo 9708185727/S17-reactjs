@@ -9,7 +9,7 @@ import { useDispatch, useSelector } from "react-redux";
 
 import { userLogin } from "../../redux/auth/authActions";
 
-const SignIn = () => {
+const SignForm = () => {
   const [showpassword,setShowpassword]=useState(false)
   const { register, handleSubmit, formState } = useForm();
   const { errors } = formState;
@@ -83,4 +83,4 @@ toast(error,{
   );
 };
 
-export default SignIn;
+export default SignForm;
