@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import Title from "../Title";
 import { RxCross1 } from "react-icons/rx";
 const ProductModal = ({isOpen=false,setOpen,label,body,button}) => {
