@@ -1,0 +1,121 @@
+export default[
+    {
+      "_id": "6714c61e244778188df2d887",
+      "name": "pressure cooker",
+      "description": "hight pressure holding capacity with good material",
+      "price": 400,
+      "brand": "hawkins",
+      "category": "kitchen tools",
+      "url":"https://m.media-amazon.com/images/I/514M+UZ5bhL.jpg",
+      "createdAt": "2024-10-20T08:58:05.054Z",
+      "__v": 0
+    },
+    {
+      "_id": "671520552fd170e8a3d771e1",
+      "name": "Men's Casual Sneakers",
+      "brand": "UrbanStride",
+      "category": "Footwear",
+      "price": 6632,
+      "description": "Comfortable and stylish men's casual sneakers with breathable fabric ",
+      "url": "https://images-cdn.ubuy.pe/65592a34ac5e5c6dc0754ef9-2023-trendy-mens-sneakers-casual-shoes.jpg",
+      "createdAt": "2024-10-20T15:22:58.917Z",
+      "createdBy": "671503888ed878f844774549",
+      "__v": 0
+    },
+    {
+      "_id": "671527021cd9d29f66a7365c",
+      "name": "Women's Designer Handbag",
+      "brand": "ChicCarry",
+      "category": "Fashion Accessorie",
+      "price": 2500,
+      "description": "Elegant women's designer handbag made of high-quality faux leather",
+      "url": "https://hips.hearstapps.com/hmg-prod/images/bella-emar-is-seen-wearing-my-essential-wardrobe-vest-na-kd-news-photo-1721744803.jpg?crop=0.668xw:1.00xh;0.167xw,0&resize=1120:*",
+      "createdAt": "2024-10-20T15:48:15.651Z",
+      "createdBy": "671503888ed878f844774549",
+      "__v": 0
+    },
+    {
+      "_id": "671530d802aeedc81b8c9f29",
+      "name": "Redmi12",
+      "brand": "realme",
+      "category": "mobile",
+      "price": 1490,
+      "description": "this is extra ordinary phone with high security ",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO44TxWSWGt9z8vePSVbV3VIwdIoeDGsDVMw&s",
+      "createdAt": "2024-10-20T16:32:43.203Z",
+      "createdBy": "67152c56b3823f1e57850c64",
+      "__v": 0
+    },
+    {
+      "_id": "6715314502aeedc81b8c9f2c",
+      "name": "Iphone 16 Pro Max",
+      "brand": "iphone",
+      "category": "mobile",
+      "price": 1420,
+      "description": "this is extra ordinary mobile phone with high security and camera",
+      "url": "https://www.apple.com/v/iphone/home/bx/images/meta/iphone__kqge21l9n26q_og.png",
+      "createdAt": "2024-10-20T16:32:43.203Z",
+      "createdBy": "67152c56b3823f1e57850c64",
+      "__v": 0
+    },
+    {
+      "_id": "671532c58d2c587e36c98f42",
+      "name": "Women's Winter Jacket",
+      "brand": "ArcticStyle",
+      "category": "clothing",
+      "price": 3000,
+      "description": "Stylish and warm women's winter jacket with faux fur lining ",
+      "url": "https://i5.walmartimages.com/seo/Babysbule-Winter-Jackets-for-Women-Clearance-Womens-Winter-Jacket-Warm-Overcoat-Slim-Fur-Collar-Zipper-Thicker-Coat-Outwear_9d25bde3-d562-425d-96e2-460f2e304460.cc8f00465cced5408ea0ceabf6708fcf.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
+      "createdAt": "2024-10-20T16:39:46.218Z",
+      "createdBy": "671503888ed878f844774549",
+      "__v": 0
+    },
+    {
+      "_id": "671532ec3647fdf883373b7e",
+      "name": "Organic Cotton Bed Sheets",
+      "brand": "PureRest",
+      "category": "Home & Kitchen",
+      "price": 42000,
+      "description": "Luxurious and soft organic cotton bed sheets with a 400-thread count",
+      "url": "https://www.soakandsleep.com/media/catalog/product/2/0/200tc_organic_cotton_bed_linen_-_hero.jpg",
+      "createdAt": "2024-10-20T16:42:12.217Z",
+      "createdBy": "671503888ed878f844774549",
+      "__v": 0
+    },
+    {
+      "_id": "671533203647fdf883373b81",
+      "name": "Smart Fitness Tracker",
+      "brand": "FitPulse",
+      "category": "Fitness & Sports",
+      "price": 6889,
+      "description": "A smart fitness tracker with heart rate monitoring, sleep tracking,",
+      "url": "https://cdn.thewirecutter.com/wp-content/media/2023/06/fitnesstrackers-2048px-09819-2x1-1.jpg?auto=webp&quality=75&crop=1.91:1&width=1200",
+      "createdAt": "2024-10-20T16:42:12.217Z",
+      "createdBy": "6714f2340ce3abbad96a0189",
+      "__v": 0
+    },
+    {
+      "_id": "671537a7d039456169815928",
+      "name": "Smart LED TV 55-inch",
+      "brand": "VisionMax",
+      "category": "Electronics",
+      "price": 3000,
+      "description": "A 55-inch 4K Ultra HD Smart LED TV with built-in apps like Netflix",
+      "url": "https://hardwarepasal.com/src/img/product/2024-09-01-14-44-10_DutjRNuGJCproduct.jpg",
+      "createdAt": "2024-10-20T16:58:04.363Z",
+      "createdBy": "671503888ed878f844774549",
+      "__v": 0
+    },
+    {
+      "_id": "671537b7d03945616981592a",
+      "name": "DSRL camera",
+      "brand": "canon",
+      "category": "camera",
+      "price": 4200,
+      "description": "this is extra ordinary osmone camera",
+      "url": "https://i5.walmartimages.com/seo/NBD-Digital-Camera-4K-Ultra-HD-48MP-All-in-One-Vlogging-Camera-with-Wide-Angle-Lens-Digital-Zoom-16x-and-3-Screen_a746886f-27db-4433-aea9-5b95e8ff4708.e3cf0eb7f759233e94ae79723cfec566.jpeg",
+      "createdAt": "2024-10-20T16:58:04.363Z",
+      "createdBy": "671503888ed878f844774549",
+      "__v": 0
+    }
+  ]
