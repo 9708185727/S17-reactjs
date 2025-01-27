@@ -15,15 +15,13 @@ import {
 } from "react-router-dom";
 import Home from "./pages/Home";
 import About from "./pages/About";
-
 import List from "./pages/products/List";
 import MainLayout from "./layouts/MainLayout";
-
 import Login from "./pages/auth/Login";
 import Register from "./pages/auth/Register";
 import Details from "./pages/products/Details";
 import AuthLayout from "./layouts/AuthLayout";
-
+import UnAuthLayout from "./layouts/UnAuthLayout";
 import AddProduct from "./pages/products/Add";
 import EditProduct from "./pages/products/Edit";
 import Contact from "./pages/Contact";
