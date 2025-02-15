@@ -2,7 +2,7 @@ import React from "react";
 import { useDispatch } from "react-redux";
 import { RemoveCartProduct } from "../../redux/cart/cartSlice";
 
-const CartCard = ({id,name,brand,category,quantity}) => {
+const CartCardProduct = ({id,name,brand,category,quantity}) => {
   const dispatch=useDispatch()
     function deleteProduct(){
         dispatch(RemoveCartProduct(id))
@@ -23,4 +23,4 @@ const CartCard = ({id,name,brand,category,quantity}) => {
   );
 };
 
-export default CartCard;
+export default CartCardProduct;
